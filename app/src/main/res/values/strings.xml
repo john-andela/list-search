@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stub Hub</string>
+    <string name="event_city">City: %s</string>
+    <string name="event_venue">Venue: %s</string>
+    <string name="event_price">Price: %s</string>
+    <string name="event_date">Date: %s</string>
+</resources>
